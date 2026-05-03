@@ -118,4 +118,15 @@ Q・K・V という3つの行列が「どのトークンに注目するか」を
 
 ---
 
+## 参考文献
+
+| # | 文献 | 該当箇所 |
+|---|---|---|
+| [1] | Sennrich et al., "Neural Machine Translation of Rare Words with Subword Units", ACL 2016 — [arxiv.org/abs/1508.07909](https://arxiv.org/abs/1508.07909) | BPE の原論文 |
+| [2] | Mikolov et al., "Distributed Representations of Words and Phrases and their Compositionality", NeurIPS 2013 — [arxiv.org/abs/1310.4546](https://arxiv.org/abs/1310.4546) | king−man+woman≈queen の加法的関係の実験 |
+| [3] | Vaswani et al., "Attention Is All You Need", NeurIPS 2017 — [arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762) | Transformer・サイン/コサイン PE の原論文 |
+| [4] | OpenAI, "GPT-4 Technical Report", 2023 — [arxiv.org/abs/2303.08774](https://arxiv.org/abs/2303.08774) | 語彙数・次元数の参考値 |
+
+---
+
 *archforge_labs — LLMの中身を数式で追うシリーズ*
